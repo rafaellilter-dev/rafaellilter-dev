@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael
 
-<!--
-**rafaellilter-dev/rafaellilter-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas da Informação - Ud 
+💻 Focado em desenvolvimento de software e tecnologia  
+🚀 Interessado em backend, frontend e soluções eficientes  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante de Sistemas da Informação com interesse em criar soluções práticas e bem estruturadas.  
+Tenho experiência com desenvolvimento web, lógica de programação e sistemas orientados a objetos.
+
+Busco evoluir constantemente minhas habilidades técnicas e contribuir com projetos relevantes.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/rafaellilter-dev
+- Email: rafaellilter.tech@gmail.com
